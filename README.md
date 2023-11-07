@@ -18,5 +18,5 @@ I am Keertiraj, a passionate and creative developer with an interest in Apple & 
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-[![Keertiraj's github stats](https://github-readme-stats.vercel.app/api?username=keertiraj-malik&theme=dracula&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=ff2626&text_color=ffeaea&icon_color=ff2626)](https://github.com/Keertiraj-Malik)
+[![Keertiraj's github stats](https://github-readme-stats.vercel.app/api?username=keertiraj-malik&theme=dracula&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=ff2626&text_color=ffeaea)](https://github.com/Keertiraj-Malik)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keertiraj-Malik&theme=dracula&hide=html,css,dockerfile&count_private=true&card_width=495&bg_color=0d0d0d&title_color=ff2626&text_color=ffeaea&icon_color=ff2626)](https://github.com/Keertiraj-Malik)

@@ -14,7 +14,7 @@ I am Keertiraj, a passionate and creative developer with an interest in Apple & 
 
 - ✉️ Shoot me an E-mail at [keertirajmalik@icloud.com](mailto:keertirajmalik@icloud.com)
 
-- 🕊 Catch me on ![followers](https://img.shields.io/github/followers/keertirajmalik?color=purple&logoColor=purple&style=social)
+- 🕊 Catch me on ![followers](https://img.shields.io/github/followers/Keertiraj-Malik?color=purple&logoColor=purple&style=social)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 

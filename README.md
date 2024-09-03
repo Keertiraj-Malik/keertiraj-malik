@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keertiraj Malik</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Natwest**
-
-- 🌱 I’m currently learning **OSGI, Spring, Rust, React**
+- 🌱 I’m currently learning **OSGI, Spring, GO, React**
 
 - 👯 I’m looking to collaborate on **Java**
 
